@@ -5,8 +5,8 @@ lsi: false
 pygments: true
 auto: true
 
-source: api-evangelist
-destination: api-evangelist
+source: 101
+destination: 101
 
 permalink: /:categories/:year/:month/:day/:title 
 exclude: [".rvmrc", ".rbenv-version", "README.md", "Rakefile", "changelog.md"]
@@ -14,9 +14,9 @@ exclude: [".rvmrc", ".rbenv-version", "README.md", "Rakefile", "changelog.md"]
 paginate: 10
 paginate_path: "/blog/page:num"
 
-production_url : http://design.apievangelist.com
+production_url : http://101.apievangelist.com
 
-BASE_PATH : http://design.apievangelist.com
+BASE_PATH : http://101.apievangelist.com
 
 archive_path: /archive.html
 categories_path : /categories.html
