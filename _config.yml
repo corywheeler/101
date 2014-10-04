@@ -7,8 +7,8 @@ lsi: false
 pygments: true
 auto: true
 
-source: api-voice
-destination: api-voice
+source: 101
+destination: 101
 
 permalink: /:categories/:year/:month/:day/:title 
 exclude: [".rvmrc", ".rbenv-version", "README.md", "Rakefile", "changelog.md"]
