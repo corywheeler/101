@@ -39,7 +39,7 @@ feature_image_width: 45
 # Navigation
 navigation:
   - label1: API 101 - Provide >>
-    link1: /index.html
+    link1: http://101.provide.apievangelist.com/
     size1: 100
     extend: 0
     label2:
