@@ -27,7 +27,7 @@ tags_path : /tags.html
 
 # Masthead title
 masthead_link: http://101.apievangelist.com
-masthead_font_size: 75
+masthead_font_size: 90
 masthead_title: '{"API 101"}'
 
 # Feature
@@ -40,7 +40,7 @@ feature_image_width: 45
 navigation:
   - label1: API 101 - Provide >>
     link1: /index.html
-    size1: 80
+    size1: 100
     extend: 0
     label2:
     link2:
@@ -49,13 +49,13 @@ navigation:
     decorate: 0
   - label1: Return to API Evangelist
     link1: http://apievangelist.com
-    size1: 80
+    size1: 100
     extend: 0
     label2:
     link2:
-    size2: 10
-    padding: 20
-    decorate: 1
+    size2: 0
+    padding: 0
+    decorate: 0
 
 # Footer Navigation
 footernavigation:
