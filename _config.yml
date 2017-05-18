@@ -1,6 +1,6 @@
-title:        API Evangelist
+title:        API Evangelist 101
 description:  A network of research sites dedicated to the technology, business, and politics of APIs.
-url:          https://apievangelist.com
+url:          https://101.apievangelist.com
 
 version:      1.1.1
 
@@ -15,19 +15,13 @@ highlighter:  rouge
 permalink: /:categories/:year/:month/:day/:title/
 exclude: [".rvmrc", ".rbenv-version", "README.md", "Rakefile", "changelog.md"]
 
-paginate: 20
-paginate_path: "/blog/page:num"
-
-categories_path : /categories.html
-tags_path : /tags.html
-
-production_url : https://apievangelist.com
+production_url : https://101.apievangelist.com
 
 image : http://s3.amazonaws.com/kinlane-productions/api-evangelist/t-shirts/KL_InApiWeTrust-1000.png
 imagesecure : https://s3.amazonaws.com/kinlane-productions/api-evangelist/t-shirts/KL_InApiWeTrust-1000.png
 
-github_user: kinlane
-github_repo: api-evangelist
+github_user: api-evangelist
+github_repo: 101
 
 # spreadsheet store
 contactinfo_spreadsheet_key: 1bNUVKpKl1-9k_5YNt0ix4eFKTP4t2L5DhnAtCqMAf4o
